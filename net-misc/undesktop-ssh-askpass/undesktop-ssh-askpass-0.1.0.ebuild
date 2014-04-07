@@ -5,7 +5,7 @@
 EAPI="5"
 SLOT="0"
 
-DESCRIPTION="A classical example to use when starting on something new."
+DESCRIPTION="GTK3 passphrase dialog for SSH"
 HOMEPAGE="http://plejeck.com/undesktop/askpass/"
 SRC_URI="https://github.com/undesktop/askpass/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 LICENSE="undesktop"
