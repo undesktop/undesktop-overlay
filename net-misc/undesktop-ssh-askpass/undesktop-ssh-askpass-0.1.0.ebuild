@@ -6,7 +6,7 @@ EAPI="5"
 SLOT="0"
 
 DESCRIPTION="GTK3 passphrase dialog for SSH"
-HOMEPAGE="http://plejeck.com/undesktop/askpass/"
+HOMEPAGE="http://undesktop.github.io/askpass/"
 SRC_URI="https://github.com/undesktop/askpass/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 LICENSE="undesktop"
 KEYWORDS="~alpha amd64 ~arm ~hppa ~ia64 ~ppc ~ppc64 ~s390 ~sh ~sparc x86"
